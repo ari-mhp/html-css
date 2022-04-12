@@ -1,2 +1,2 @@
 # Progate-HTML-CSS
-Website
+Portofolio belajar HTML-CSS responsive
